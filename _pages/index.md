@@ -47,9 +47,10 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
 
 {% include feature_row id="intro" type="center" %}
+
+{% include video id="dQw4w9WgXcQ" provider="youtube" %}
 
 {% include feature_row %}
 
