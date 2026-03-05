@@ -34,8 +34,13 @@ feature_row:
     alt: "placeholder image 4"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
 
-    skills:
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+   skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
@@ -46,9 +51,3 @@ feature_row:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
----
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
