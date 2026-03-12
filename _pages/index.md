@@ -58,7 +58,7 @@ feature_row:
 
 {% include feature_row %}
 
-{% include skills skills=page.skills body background-color= "black" %}
+{% include skills skills=page.skills %}
 
   
     
