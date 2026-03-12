@@ -56,8 +56,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
-
 {% include feature_row %}
 
 {% include skills skills=page.skills %}
