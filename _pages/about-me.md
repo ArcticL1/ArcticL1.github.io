@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: splash
-permalink: /about-me/
+permalink: /:about-me/
 
 sidebar:
   title: "About Me"
