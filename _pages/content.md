@@ -25,26 +25,24 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-    gallery_gameplay:
+ gallery_gameart:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+    image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+    alt: "Art 1"
+    title: "Style pass"
+    caption: "Style pass"
   - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
-  - url: /assets/images/placeholder.png
-    image_path: /assets/images/placeholder.png
-    alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
-  - url: /assets/images/placeholder.png
+    image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+    alt: "Art 2"
+    title: "Final polish"
+    caption: "Final polish"
+    image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+    alt: "Art 3"
+    title: "Final polish"
+    caption: "Final polish"
 ---
 {% include feature_row id="intro" type="center" %}
-
+{% include gallery id="gallery_gameart" layout="third" thumb_height="180px" %}
 {% include feature_row type="left" %}
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+
