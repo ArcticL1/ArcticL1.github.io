@@ -1,5 +1,5 @@
 ---
 title: "Content"
-layout: splash
+layout: image-head
 permalink: /content/
 ---
