@@ -1,5 +1,5 @@
 ---
 title: "About Me"
-layout: splash
+layout: image-head
 permalink: /about-me/
 ---
