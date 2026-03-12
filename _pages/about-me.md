@@ -4,7 +4,7 @@ layout: default
 permalink: /about-me/
 
 sidebar:
-  title: "Page Templates"
+  title: "About Me"
   nav:
-    - pages
+    - about-me
 ---
