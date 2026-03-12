@@ -1,5 +1,5 @@
 ---
 title: "Contact"
-layout: splash
+layout: image-head
 permalink: /contact/
 ---
