@@ -41,11 +41,9 @@ feature_row:
     alt: "Art 3"
     title: "Final polish"
     caption: "Final polish"
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include gallery id="gallery_gameart" layout="third" thumb_height="180px" %}
-
 {% include feature_row type="left" %}
-
+{% include gallery id="gallery_gameart" layout="third" thumb_height="180px" %}
