@@ -35,8 +35,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  
     
 ---
 {% include feature_row id="intro" type="center" %}
