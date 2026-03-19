@@ -7,20 +7,15 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
-
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
-
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 </div>
 {% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" %}
 <div style="flex:1 1 250px; min-width:250px;">
-
-
 </div>
 </div>
-
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
