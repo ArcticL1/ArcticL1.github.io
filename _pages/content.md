@@ -1,6 +1,6 @@
 ---
 title: "Content"
-layout: content
+layout: splash
 permalink: /content/
 
 header:
