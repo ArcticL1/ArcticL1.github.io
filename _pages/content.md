@@ -1,6 +1,6 @@
 ---
 title: "Content"
-layout: image-head
+layout: content
 permalink: /content/
 
 header:
