@@ -2,6 +2,7 @@
 title: "Content"
 layout: image-head
 permalink: /content/
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
