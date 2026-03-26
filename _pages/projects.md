@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: single
+layout: project
 permalink: /projects/
 sidebar:
   title: "Projects"
