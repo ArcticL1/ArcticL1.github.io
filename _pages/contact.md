@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-layout: image-head
+layout: contact
 permalink: /contact/
 header:
   overlay_color: "#000"
