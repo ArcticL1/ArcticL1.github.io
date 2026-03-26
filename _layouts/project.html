@@ -7,6 +7,7 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
+<h1>2D project</h1> 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
@@ -39,7 +40,22 @@ in module CRE135: 2D Game Creation.
 </div>
 </div>
 
-
+<h1>Boardgame</h1> 
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<!-- LEFT: text content -->
+<div style="flex:1 1 250px; min-width:250px;">
+<h2>1st yr Project Game - 2D Platformer</h2>
+<p>
+As part of a team, I helped design and build a 2D Platform game for my course
+in module CRE135: 2D Game Creation.
+</p>
+</div>
+<!-- RIGHT: video/content area -->
+<div style="flex:1 1 250px; min-width:250px;">
+<!-- Replace this placeholder with a YouTube iframe or a video tag -->
+{% include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" %}
+</div>
+</div>
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -51,7 +67,7 @@ in module CRE135: 2D Game Creation.
       {{ content }}
     </section>
   </article>
-  
+ <h1>3D project</h1> 
 </div>
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
