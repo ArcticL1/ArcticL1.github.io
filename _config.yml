@@ -50,9 +50,9 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email" # Email link
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
@@ -64,7 +64,7 @@ footer: # Site footer
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/ArcticL1"
       target: "_blank"
     - label: "Bitbucket" # Bitbucket link
       icon: "fab fa-fw fa-bitbucket"
