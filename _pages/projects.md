@@ -6,7 +6,6 @@ sidebar:
   title: "Projects"
   nav:
     - projects
----
 
 header:
   overlay_color: "#000"
@@ -22,7 +21,4 @@ header:
 
 excerpt: "You can add text here."
 
-
-
-
-
+---
