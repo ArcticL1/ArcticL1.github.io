@@ -49,7 +49,6 @@ author:
 
 # Site Footer
 footer: # Site footer
-
       target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
