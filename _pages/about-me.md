@@ -15,12 +15,6 @@ header:
       target: "_blank"
       excerpt: "You can add text here."
 
-
-
-
-
-
-    
 gallery_gameplay:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
@@ -38,6 +32,4 @@ gallery_gameplay:
     title: "Power-ups"
     caption: "Power-ups"
     
-intro: 
-     - excerpt: 'You can also add text like this....'
 ---
