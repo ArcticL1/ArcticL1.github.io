@@ -18,7 +18,9 @@ header:
 
 intro: 
   - excerpt: 'You can also add text like this....'
-  - 
+
+excerpt: "You can add text here."
+    
 gallery_gameplay:
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
@@ -36,5 +38,5 @@ gallery_gameplay:
     title: "Power-ups"
     caption: "Power-ups"
 
-   excerpt: "You can add text here."
+   
 ---
