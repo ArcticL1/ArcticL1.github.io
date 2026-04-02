@@ -13,7 +13,11 @@ header:
     - label: "Linkdin"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
-      excerpt: "You can add text here."
+
+excerpt: "You can add text here."
+
+intro: 
+  - excerpt: 'You can also add text like this....'
 
 gallery_gameplay:
   - url: /assets/images/placeholder.png
