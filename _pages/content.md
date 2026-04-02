@@ -21,6 +21,11 @@ excerpt: "You can add text here."
 intro: 
   - excerpt: 'You can also add text like this....'
 
+sidebar:
+  title: "Page Templates"
+  nav:
+    - pages
+
 feature_row:
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 1"
