@@ -49,13 +49,31 @@ author:
 
 # Site Footer
 footer: # Site footer
+  links: # Footer links
+    - label: "Twitter" # Twitter link
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "Email" # Email link
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
       target: "_blank"
-    - label: "GitHub" # GitHub link
-      icon: "fab fa-fw fa-github"
+    - label: "Facebook" # Facebook link
+      icon: "fab fa-fw fa-facebook-square"
+      target: "_blank"
+    - label: "GitLab" # GitLab link
+      icon: "fab fa-fw fa-gitlab"
       # url:
       url: "https://github.com/ArcticL1"
-
-   
+      target: "_blank"
+    - label: "Bitbucket" # Bitbucket link
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+      target: "_blank"
+    - label: "Instagram" # Instagram link
+      icon: "fab fa-fw fa-instagram"
+      # url:
+      target: "_blank"
+  since: "2026" # Year shown in the footer
     
 
 # Reading files (what Jekyll includes/excludes)
