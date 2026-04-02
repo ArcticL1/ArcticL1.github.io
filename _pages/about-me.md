@@ -37,7 +37,7 @@ gallery_gameplay:
     caption: "Power-ups"
 
 
-    skills:
+ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
@@ -48,6 +48,7 @@ gallery_gameplay:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
+    
 ---
 {% include skills skills=page.skills %}
 
