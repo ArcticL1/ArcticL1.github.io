@@ -20,7 +20,6 @@ intro:
   - excerpt: 'You can also add text like this....'
   - 
 gallery_gameplay:
-  # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/placeholder.png
     image_path: /assets/images/placeholder.png
     alt: "Gameplay 1"
