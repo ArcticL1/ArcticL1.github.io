@@ -52,5 +52,5 @@ skills:
     
 ---
 
-{% include skills skills=page.skills %}
+
 
