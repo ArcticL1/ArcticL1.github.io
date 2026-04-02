@@ -49,3 +49,5 @@ gallery_gameplay:
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
 ---
+{% include skills skills=page.skills %}
+{% include skills skills=page.skills %}
