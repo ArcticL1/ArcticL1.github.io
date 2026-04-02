@@ -50,4 +50,4 @@ gallery_gameplay:
     level_label: "Beginner"
 ---
 {% include skills skills=page.skills %}
-{% include skills skills=page.skills %}
+
