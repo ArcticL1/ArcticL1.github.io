@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: image-head
+layout: about
 permalink: /about-me/
 header:
   overlay_color: "#000"
