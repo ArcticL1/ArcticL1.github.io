@@ -42,7 +42,7 @@ skills:
     icon: "fab fa-fw fa-unity"
     badges: ["Project Management", "Version/Branch Control", "Project Backup"]
     text: "Built multiple prototypes and a pulished jam game."
-    years: 2
+    level_label: "Beginner"
     
   - name: "world-building / level-design "
     icon: "fas fa-fw fa-gamepad"
