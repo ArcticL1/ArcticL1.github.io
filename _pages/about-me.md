@@ -40,8 +40,8 @@ gallery_gameplay:
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
-    badges: ["C#", "Game Dev"]
-    text: "Built multiple prototypes and a published jam game."
+    badges: ["C#", "Game Dev", "test"]
+    text: "Built multiple prototypes and a pulished jam game."
     years: 2
     
   - name: "Game Design"
