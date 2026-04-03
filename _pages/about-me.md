@@ -38,27 +38,27 @@ gallery_gameplay:
 
 
 skills:
-  - name: "Unity"
+  - name: "GitHub"
     icon: "fab fa-fw fa-unity"
-    badges: ["C#", "Game Dev", "test"]
+    badges: ["Project management", "version/branch control", "project backup"]
     text: "Built multiple prototypes and a pulished jam game."
     years: 2
     
-  - name: "Game Design"
+  - name: "world-building / level-design "
     icon: "fas fa-fw fa-gamepad"
-    badges: ["Game Mechanics", "Levels", "UI"]
+    badges: ["Tilemapping", "3D Grayboxing via Probuilder", "interactive/storytelling environments" ]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
 
-  - name: "test Design"
+  - name: "Digital media"
     icon: "fas fa-fw fa-gamepad"
-    badges: ["Game Mechanics", "Levels", "UI"]
+    badges: ["producing game trailers", "OBS", "Audacity", "photography / filming process"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
     
-  - name: "idk Design"
+  - name: "Projects"
     icon: "fas fa-fw fa-gamepad"
-    badges: ["Game Mechanics", "Levels", "UI"]
+    badges: ["communcation", "Teamwork", "time-management", "Office 365"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
 
