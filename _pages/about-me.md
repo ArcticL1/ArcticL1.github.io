@@ -40,7 +40,8 @@ skills:
   - name: "GitHub"
     icon: "fab fa-fw fa-github"
     badges: ["Project Management", "Version/Branch Control", "Project Backup"]
-    text: "•	I make use of GitHub for my personal and collaborative projects. It allows me and multiple team members to work together on the same projects and track changes, fix bugs, and share resources. This allows me to revert to previous versions if needed and to create branches for simultaneous work without conflicts or overwriting work."
+    text: "I made use of GitHub for my personal and collaborative projects. It allows me and multiple team members to work together on the same projects and track changes, fix bugs, and share resources.
+    This allows me to revert to previous versions if needed and to create branches for simultaneous work without conflicts or overwriting work."
     level_label: "Beginner"
     
   - name: "world-building / level-design "
