@@ -39,7 +39,7 @@ gallery_gameplay:
 
 skills:
   - name: "GitHub"
-    icon: "fab fa-fw fa-unity"
+    icon: "fab fa-fw fa-github"
     badges: ["Project Management", "Version/Branch Control", "Project Backup"]
     text: "Built multiple prototypes and a pulished jam game."
     level_label: "Beginner"
