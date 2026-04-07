@@ -36,7 +36,6 @@ gallery_gameplay:
     title: "Power-ups"
     caption: "Power-ups"
 
-
 skills:
   - name: "GitHub"
     icon: "fab fa-fw fa-github"
@@ -45,19 +44,19 @@ skills:
     level_label: "Beginner"
     
   - name: "world-building / level-design "
-    icon: "fas fa-fw fa-gamepad"
+    icon: "fas fa-fw fa-city"
     badges: ["Tilemapping", "3D Grayboxing via Probuilder", "Interactive/Storytelling Environments" ]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
 
   - name: "Digital media"
-    icon: "fas fa-fw fa-gamepad"
+    icon: "fas fa-fw fa-camera-retro"
     badges: ["Producing Game Trailers", "OBS", "Audacity", "Photography / Filming Processes"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
     
   - name: "Projects"
-    icon: "fas fa-fw fa-gamepad"
+    icon: "fas fa-fw fa-user"
     badges: ["Communcation", "Teamwork", "Time-Management", "Office 365"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
