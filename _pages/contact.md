@@ -14,6 +14,6 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 
-excerpt: "You can add text here."
+excerpt: "This section of the website is dedicated to getting in contact with me via the contact form."
 
 ---
