@@ -14,7 +14,7 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
 
-excerpt: "You can add text here."
+excerpt: "This website is dedicated to showing my work within game development and design, showing my projects, about me and how to contact me and get key information such as my CV and LinkedIn profile. "
 
 intro: 
   - excerpt: 'You can also add text like this....'
