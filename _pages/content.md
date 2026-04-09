@@ -16,7 +16,7 @@ header:
       target: "_blank"
 
      
-excerpt: "You can add text here."
+excerpt: "This section of the website is dedicated to showing off content done in relation to projects and personal work."
 
 intro: 
   - excerpt: 'You can also add text like this....'
