@@ -31,13 +31,13 @@ feature_row:
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here with Markdown formatting., This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting."
    
 
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 3"
     title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here with Markdown formatting., This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting."
 
 intro: 
   - excerpt: ' '  
