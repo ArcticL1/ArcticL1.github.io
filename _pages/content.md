@@ -22,7 +22,7 @@ intro:
   - excerpt: 'You can also add text like this....'
 
 feature_row:
-  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: /assets/images/Sprite-0002.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting., This is some sample content that goes here with **Markdown** formatting.This is some sample content that goes here with **Markdown** formatting.This is some sample content that goes here with **Markdown** formatting.This is some sample content that goes here with **Markdown** formatting."
