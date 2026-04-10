@@ -26,7 +26,7 @@ skills:
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
-    text: "Designed mechanics, levels, and player feedback loops."
+    text: "I have experience in art and design across a wide range of elements, including digital, traditional, and perspective art styles. I have developed mechanics that the player will use within gameplay, such as generators that power’s up certain elements in a platformer game and have worked with features such as health bars for the player/enemy, as well as main menus."
     level_label: "Beginner"
 
 feature_row:
