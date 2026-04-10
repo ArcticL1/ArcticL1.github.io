@@ -17,7 +17,7 @@ header:
 excerpt: "This website is dedicated to showing my work within game development and design, showing my projects, about me and how to contact me and get key information such as my CV and LinkedIn profile. "
 
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'This is some sample content that goes here with Markdown formatting., This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.'
 
 skills:
   - name: "Unity"
