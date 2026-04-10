@@ -44,13 +44,13 @@ skills:
     This allows me to revert to previous versions if needed and to create branches for simultaneous work without conflicts or overwriting work."
     level_label: "Beginner"
     
-  - name: "world-building / level-design "
+  - name: "World-building / level-design "
     icon: "fas fa-fw fa-city"
     badges: ["Tilemapping", "3D Grayboxing via Probuilder", "Interactive/Storytelling Environments" ]
     text: "I make the layout/design of the game levels, controlling the pace of players' progress and how mechanics are shown to them, through the environment/levels I create that are aimed to give players an understanding of the story/lore of the game and to ensure that the levels are fun and not repetitive."
     level_label: "Beginner"
 
-  - name: "Digital media"
+  - name: "Digital-Media"
     icon: "fas fa-fw fa-camera-retro"
     badges: ["Producing Game Trailers", "OBS", "Audacity", "Photography / Filming Processes"]
     text: "Having done a creative media class at A level has allowed me to gain an understanding of industry standards and the laws/regulations that conflict with media, I have learned the processes, and I have created a short film and multiple poster-style advertisements. "
