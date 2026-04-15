@@ -31,7 +31,7 @@ feature_row:
   - image_path: assets/images/hornet.png
     alt: "placeholder image 2"
     title: "Game Characters -"
-    excerpt: "The artwork above features a popular game character from the game “Hollow Knight – Silksong.” I personally enjoy the game, and playing through it inspires me to create this artwork based on Moss Grotto, which is one of the starter areas in the game.  Going into more depth with the light and doing stylised colouring where you would use unconventional colours for shading/highlighting, such as using orange or purple shades in the character's cloak. "
+    excerpt: "The artwork above features a popular game character from the game “Hollow Knight – Silksong.” I personally enjoy the game, and playing through it inspires me to create this artwork based on Moss Grotto, one of the starter areas.  Going into more depth with the lighting and doing stylised colouring, where you would use unconventional colours for shading/highlighting, such as orange or purple shades on the character's cloak."
    
 
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
