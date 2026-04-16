@@ -36,8 +36,8 @@ feature_row:
 
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 3"
-    title: "Limited Colours -"
-    excerpt: "This is some sample content that goes here with Markdown formatting., This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting."
+    title: "Limited Palette -"
+    excerpt: "The art above is another one of the styles I can draw, this style focuses on using a small amount of colour in the artwork and making use of techniques such as on pixel art using blending with these limited colours to create shading or stylised backgrounds to make it look like gradient."
 
 intro: 
   - excerpt: ' '  
