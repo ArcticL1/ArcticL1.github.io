@@ -28,7 +28,7 @@ skills:
     text: "I have experience in art and design across a wide range of elements, including digital, traditional, and perspective art styles. I have developed mechanics that the player will use within gameplay, such as generators that power’s up certain elements in a platformer game and have worked with features such as health bars for the player/enemy, as well as main menus."
 
 feature_row:
-  - image_path: /assets/images/hornet.png
+  - image_path: assets/images/hornet1.png
     alt: "placeholder image 1"
     title: "Art Styles -"
     excerpt: "This is one of the many art styles I can draw in, This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail and my other styles on my content page."
