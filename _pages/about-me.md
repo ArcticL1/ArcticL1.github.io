@@ -5,7 +5,7 @@ permalink: /about-me/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  overlay_image: /assets/images/rudo.png
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
@@ -17,19 +17,19 @@ header:
 excerpt: "This section of the website is dedicated to showing information about me and my skills within the industry."
 
 feature_row:
-  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: /assets/images/rudo.png
     alt: "placeholder image 1"
     title: "3D printing -"
     excerpt: "Having an interest in learning 3D printing, going through and learning the skills such as modelling, slicing software like orca-slicer and prototyping models for my creations."
    
    
-  - image_path: assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: assets/images/rudo.png
     alt: ""
     title: "Gaming –"
     excerpt: "I am both Passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
    
 
-  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: /assets/images/rudo.png
     alt: "placeholder image 3"
     title: "Playtesting –"
     excerpt: "Playing early access games/demos for games within Steam to show my support and help identify any issue/ bugs I find when playing. I've played early access games like Hytale and Half Sword."
