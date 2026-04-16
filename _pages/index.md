@@ -37,7 +37,7 @@ feature_row:
     btn_class: "btn--primary"
 
     
-  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: /assets/images/rudo.png
     alt: "placeholder image 2"
     title: "Hobbies -"
     excerpt: "This is one of my hobbies which, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, This is scale replicate of it as the reason it took so long and you can see my hobbies in more detail on my about me page."
@@ -45,7 +45,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
     
-  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: /assets/images/rudo.png
     alt: "placeholder image 4"
     title: "Projects -"
     excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is a exploratory dungeon clawers, and you can see this and many for projects on my project page."
