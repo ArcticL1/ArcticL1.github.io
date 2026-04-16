@@ -52,10 +52,10 @@ footer: # Site footer
   links: # Footer links
     - label: "Twitter" # Twitter link
       icon: "fab fa-fw fa-linkedin></i>"
-      url: "https://twitter.com/"
+      url: "https://uk.linkedin.com/in/lewis-esler-9a787b3b3"
     - label: "Email" # Email link
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      url: "mailto:your.Esler-l1@ulster.ac.uk"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
