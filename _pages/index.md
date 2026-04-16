@@ -30,10 +30,10 @@ skills:
     level_label: "Beginner"
 
 feature_row:
-  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: /assets/images/hornet.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with Markdown formatting., This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting."
+    title: "Art Styles -"
+    excerpt: "This is one of the many art styles I can draw in, This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail and my other styles on my content page. "
     
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 2"
