@@ -22,20 +22,20 @@ intro:
 feature_row:
   - image_path: /assets/images/Sprite-0003.png
     alt: "placeholder image 1"
-    title: "Liminal Spaces -"
+    title: "3D printing -"
     excerpt: "The art above is one of the styles I like to draw, as I can draw interesting architecture in perspective drawing. Liminal art is usually styled towards horror that is aimed to cause unease in the person viewing, as they feel familiarity with it as to create in-between spaces or transitional areas, which typically would be full of people drawn as space and can the uncanny valley affect if done correctly, as places feel like there's something off about them. "
    
    
   - image_path: assets/images/hornet.png
-    alt: "placeholder image 2"
-    title: "Game Characters -"
-    excerpt: "The artwork above features a popular game character from the game “Hollow Knight – Silksong.” I personally enjoy the game, and playing through it inspires me to create this artwork based on Moss Grotto, one of the starter areas.  Going into more depth with the lighting and doing stylised colouring, where you would use unconventional colours for shading/highlighting, such as orange or purple shades on the character's cloak."
+    alt: ""
+    title: "Gaming –"
+    excerpt: "I am both Passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
    
 
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 3"
-    title: "Limited Palette -"
-    excerpt: "The art above is another one of the styles I can draw, this style focuses on using a small amount of colour in the artwork and making use of techniques such as on pixel art using blending with these limited colours to create shading or stylised backgrounds to make it look like gradient."
+    title: "Playtesting –"
+    excerpt: "Playing early access games/demos for games within Steam to show my support and help identify any issue/ bugs I find when playing. I've played early access games like Hytale and Half Sword."
 
 
 
