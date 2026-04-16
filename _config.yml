@@ -51,7 +51,7 @@ author:
 footer: # Site footer
   links: # Footer links
     - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin></i>"
       url: "https://twitter.com/"
     - label: "Email" # Email link
       icon: "fas fa-fw fa-envelope-square"
