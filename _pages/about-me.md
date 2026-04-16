@@ -16,9 +16,6 @@ header:
 
 excerpt: "This section of the website is dedicated to showing information about me and my skills within the industry."
 
-intro: 
-  - excerpt: 'You can also add text like this....'
-
 feature_row:
   - image_path: /assets/images/Sprite-0003.png
     alt: "placeholder image 1"
