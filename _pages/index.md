@@ -37,8 +37,8 @@ feature_row:
     
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with Markdown formatting., This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting."
+    title: "Hobbies -"
+    excerpt: "This is one of my hobbies which, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, This is scale replicate of it as the reason it took so long and you can see my hobbies in more detail on my about me page."
     
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 4"
