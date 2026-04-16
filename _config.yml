@@ -62,9 +62,9 @@ footer: # Site footer
       url: "https://github.com/ArcticL1"
       target: "_blank"
     - label: "BlueSky" # GitLab link
-     icon: "fab fa-fw fa-bluesky"
-     url: "https://bsky.app/profile/vivitheclown.bsky.social"
-     target: "_blank"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/vivitheclown.bsky.social"
+      target: "_blank"
 
   since: "2026" # Year shown in the footer
     
