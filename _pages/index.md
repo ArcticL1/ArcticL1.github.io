@@ -33,17 +33,17 @@ feature_row:
   - image_path: /assets/images/hornet.png
     alt: "placeholder image 1"
     title: "Art Styles -"
-    excerpt: "This is one of the many art styles I can draw in, This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail and my other styles on my content page. "
+    excerpt: "This is one of the many art styles I can draw in, This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail and my other styles on my content page. <a href="https://arcticl1.github.io/content/" target="_blank" rel="noopener noreferrer"> "
     
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 2"
     title: "Hobbies -"
-    excerpt: "This is one of my hobbies which, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, This is scale replicate of it as the reason it took so long and you can see my hobbies in more detail on my about me page."
+    excerpt: "This is one of my hobbies which, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, This is scale replicate of it as the reason it took so long and you can see my hobbies in more detail on my about me page. <a href="https://arcticl1.github.io/about-me/" target="_blank" rel="noopener noreferrer">"
     
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 4"
     title: "Projects -"
-    excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is a exploratory dungeon clawers, and you can see this and many for projects on my project page. "
+    excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is a exploratory dungeon clawers, and you can see this and many for projects on my project page. <a href="https://arcticl1.github.io/projects/" target="_blank" rel="noopener noreferrer">  "
  
 ---
 
