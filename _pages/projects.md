@@ -16,7 +16,7 @@ header:
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
     - label: "Linkdin"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "https://uk.linkedin.com/in/lewis-esler-9a787b3b3"
       target: "_blank"
 
 excerpt: "This section of the website is dedicated to showing my past game and creative projects and the experience I gained from them."
