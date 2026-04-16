@@ -29,7 +29,7 @@ feature_row:
     excerpt: "I am both Passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
    
 
-  - image_path: assets/images/Sprite-0004.png
+  - image_path: assets/images/Sprite-0005-export.png
     alt: "placeholder image 3"
     title: "Playtesting –"
     excerpt: "Playing early access games/demos for games within Steam to show my support and help identify any issue/ bugs I find when playing. I've played early access games like Hytale and Half Sword."
