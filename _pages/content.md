@@ -34,7 +34,7 @@ feature_row:
     excerpt: "The artwork above features a popular game character from the game “Hollow Knight – Silksong.” I personally enjoy the game, and playing through it inspires me to create this artwork based on Moss Grotto, one of the starter areas.  Going into more depth with the lighting and doing stylised colouring, where you would use unconventional colours for shading/highlighting, such as orange or purple shades on the character's cloak."
    
 
-  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  - image_path: /assets/images/rudo.png
     alt: "placeholder image 3"
     title: "Limited Palette -"
     excerpt: "The art above is another one of the styles I can draw, this style focuses on using a small amount of colour in the artwork and making use of techniques such as on pixel art using blending with these limited colours to create shading or stylised backgrounds to make it look like gradient."
