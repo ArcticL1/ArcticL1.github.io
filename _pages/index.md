@@ -42,8 +42,8 @@ feature_row:
     
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with Markdown formatting., This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting.This is some sample content that goes here with Markdown formatting."
+    title: "Projects -"
+    excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is a exploratory dungeon clawers, and you can see this and many for projects on my project page. "
  
 ---
 
