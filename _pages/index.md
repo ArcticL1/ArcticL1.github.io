@@ -23,7 +23,6 @@ skills:
     badges: ["C#", "Game Dev", "Lighting/Effects", "Particle-Systems"]
     text: "Using Unity for several different skills working in both 2D and 3D design, such as programming with C#, Lighting and particle systems, UI elements and much more. Over the past year, I created many small projects while learning Unity and the skills behind it."
     years: 2
-    
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI", "Art"]
