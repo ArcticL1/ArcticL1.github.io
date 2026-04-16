@@ -50,8 +50,8 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-linkedin></i>"
+    - label: "Linkedin" # Twitter link
+      icon: "fab fa-fw fa-linkedin"
       url: "https://uk.linkedin.com/in/lewis-esler-9a787b3b3"
     - label: "Email" # Email link
       icon: "fas fa-fw fa-envelope-square"
