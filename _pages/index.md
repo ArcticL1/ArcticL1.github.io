@@ -40,7 +40,7 @@ feature_row:
   - image_path: /assets/images/rudo.png
     alt: "placeholder image 2"
     title: "Hobbies -"
-    excerpt: "This is one of my hobbies, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, This is scale replicate of it, you can see my hobbies in more detail on my about me page."
+    excerpt: "This is one of my hobbies, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, this is scale replicate of it, you can see my hobbies in more detail on me about me page."
     url: "https://arcticl1.github.io/about-me/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -48,7 +48,7 @@ feature_row:
   - image_path: /assets/images/rudo.png
     alt: "placeholder image 4"
     title: "Projects -"
-    excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is a exploratory dungeon clawers, and you can see this and many for projects on my project page."
+    excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is an exploratory dungeon clawer fighting rats as a cat, and you can see this and many for projects on my project page."
     url: "https://arcticl1.github.io/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
