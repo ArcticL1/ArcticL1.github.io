@@ -17,13 +17,13 @@ header:
 excerpt: "This section of the website is dedicated to showing information about me and my skills within the industry."
 
 feature_row:
-  - image_path: /assets/images/Sprite-0003.png
+  - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 1"
     title: "3D printing -"
     excerpt: "Having an interest in learning 3D printing, going through and learning the skills such as modelling, slicing software like orca-slicer and prototyping models for my creations."
    
    
-  - image_path: assets/images/hornet.png
+  - image_path: assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: ""
     title: "Gaming –"
     excerpt: "I am both Passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
