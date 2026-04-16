@@ -23,7 +23,7 @@ feature_row:
     excerpt: "Having an interest in learning 3D printing, going through and learning the skills such as modelling, slicing software like orca-slicer and prototyping models for my creations."
    
    
-  - image_path: assets/images/games1.png
+  - image_path: assets/images/games3.png
     alt: ""
     title: "Gaming –"
     excerpt: "I am both Passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
