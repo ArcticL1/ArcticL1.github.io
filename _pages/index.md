@@ -34,6 +34,12 @@ feature_row:
     alt: "placeholder image 1"
     title: "Art Styles -"
     excerpt: "This is one of the many art styles I can draw in, This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail and my other styles on my content page."
+   
+    {% include button
+  url="https://arcticl1.github.io/content/"
+  label="View All Projects"
+  class="btn--primary"
+%}
     
   - image_path: /assets/images/🔥Gachiakuta rudo🔥.jpg
     alt: "placeholder image 2"
