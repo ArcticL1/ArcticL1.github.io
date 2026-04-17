@@ -17,7 +17,7 @@ header:
 excerpt: "This section of the website is dedicated to showing information about me and my skills within the industry."
 
 feature_row:
-  - image_path: /assets/images/20260417_133124.jpg, height 250px, width 363px
+  - image_path: /assets/images/20260417_133124.jpg
     alt: "placeholder image 1"
     title: "3D printing -"
     excerpt: "Having an interest in learning 3D printing, going through and learning the skills such as modelling, slicing software like orca-slicer and prototyping models for my creations."
