@@ -37,7 +37,7 @@ feature_row:
     btn_class: "btn--primary"
 
     
-  - image_path: /assets/images/rudo.png
+  - image_path: /assets/images/20260417_133124.jpg
     alt: "placeholder image 2"
     title: "Hobbies -"
     excerpt: "This is one of my hobbies, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, this is scale replicate of it, you can see my hobbies in more detail on me about me page."
