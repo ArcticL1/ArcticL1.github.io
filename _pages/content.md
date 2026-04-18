@@ -6,7 +6,7 @@ permalink: /content/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/🔥Gachiakuta rudo🔥.jpg
+  overlay_image: /assets/images/wolfie.png
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
@@ -34,7 +34,7 @@ feature_row:
     excerpt: "The artwork above features a popular game character from the game “Hollow Knight – Silksong.” I personally enjoy the game, and playing through it inspires me to create this artwork based on Moss Grotto, one of the starter areas.  Going into more depth with the lighting and doing stylised colouring, where you would use unconventional colours for shading/highlighting, such as orange or purple shades on the character's cloak."
    
 
-  - image_path: /assets/images/rudo.png
+  - image_path: /assets/images/wolfie.png
     alt: "placeholder image 3"
     title: "Limited Palette -"
     excerpt: "The art above is another one of the styles I can draw, this style focuses on using a small amount of colour in the artwork and making use of techniques such as on pixel art using blending with these limited colours to create shading or stylised backgrounds to make it look like gradient."
