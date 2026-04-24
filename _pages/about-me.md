@@ -32,7 +32,7 @@ feature_row:
   - image_path: assets/images/Sprite-0005-export.png
     alt: "placeholder image 3"
     title: "Playtesting –"
-    excerpt: "I like playing early games/demos as I like playing games, and it is a way I can show support and help identify any issues/ bugs I find when playing. I have played many demos/early access of games, but some of my favourite ones have been Hytale and Half Sword."
+    excerpt: "I play early games/demos as I like playing games, and it is a way I can show support and help identify any issues/ bugs I find when playing. I have played many demos/early access of games, but some of my favourite ones have been Hytale and Half Sword."
 
 
 
