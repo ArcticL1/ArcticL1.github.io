@@ -18,7 +18,7 @@ excerpt: "This section of the website is dedicated to showing information about 
 
 feature_row: 
 
-- image_path: assets/images/games3.png
+  - image_path: assets/images/games3.png
     alt: ""
     title: "Gaming –"
     excerpt: "I am both Passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
