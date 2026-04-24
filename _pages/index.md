@@ -40,7 +40,7 @@ feature_row:
   - image_path: /assets/images/20260417_133124.jpg
     alt: "placeholder image 2"
     title: "Hobbies -"
-    excerpt: "This is one of my hobbies, which is 3D printing this print took over 37.5 hrs to complete this is a prop of the portal gun from the game portal, this is scale replicate of it, you can see my hobbies in more detail on me about me page.                                 
+    excerpt: "3D printing is one of my hobbies. I have made several small items, though this is one of my biggest projects. It is a scale replica of the portal gun from the game Portal, which took over 37.5 hours to print and assemble. You can see more about my hobbies on the About Me page.                             
 
     "
     url: "https://arcticl1.github.io/about-me/"
