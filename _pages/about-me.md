@@ -26,7 +26,8 @@ feature_row:
   - image_path: /assets/images/20260417_133124.jpg
     alt: "placeholder image 1"
     title: "3D printing -"
-    excerpt: "Having an interest in learning 3D printing, going through and learning the skills such as modelling, slicing software like orca-slicer and prototyping models for my creations."
+    excerpt: "Having an interest in 3D printing, I have been going through and learning the different skills, from how to make effective prints from slicer settings, supports, and prototyping creations for my creations. I want to learn how to make my own models so I can bring my designs to the real world. 
+    "
     
   - image_path: assets/images/Sprite-0005-export.png
     alt: "placeholder image 3"
