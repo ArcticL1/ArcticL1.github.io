@@ -37,7 +37,7 @@ feature_row:
     btn_class: "btn--primary"
 
     
-  - image_path: /assets/images/20260417_133124.jpg
+  - image_path: /assets/images/Sprite-0003.png
     alt: "placeholder image 2"
     title: "Hobbies -"
     excerpt: "3D printing is one of my hobbies. I have made several small items, though this is one of my biggest projects. It is a scale replica of the portal gun from the game Portal, which took over 37.5 hours to print and assemble. You can see more about my hobbies on the About Me page.                             
