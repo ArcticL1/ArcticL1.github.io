@@ -47,7 +47,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
     
-  - image_path: /assets/images/rudo.png
+  - image_path: /assets/images/image_2026-04-25_143244838.png
     alt: "placeholder image 4"
     title: "Projects -"
     excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is an exploratory dungeon clawer fighting rats as a cat, and you can see this and many for projects on my project page."
