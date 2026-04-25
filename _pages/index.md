@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/wolfban2.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "file:///C:/Users/Owner/Downloads/CV.pdf"
       target: "_blank"
     - label: "Linkedin"
       url: "https://uk.linkedin.com/in/lewis-esler-9a787b3b3"
