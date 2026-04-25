@@ -37,8 +37,8 @@ feature_row:
   - image_path: /assets/images/wolfie.png
     alt: "placeholder image 3"
     title: "Limited Palette -"
-    excerpt: "The art above is another one of the styles I can draw, this style focuses on using a small amount of colour in the artwork and making use of techniques such as on pixel art using blending with these limited colours to create shading or stylised backgrounds to make it look like gradient."
-
+    excerpt: "The art above is another one of the styles I can draw. This style focuses on using a small amount of colour in the artwork and making use of techniques such as pixel art, using blending with these limited colours to create shading or stylised backgrounds to make it look like a gradient.The image above was inspired by a show called Dandadan and how they depict the main character's demonic form, which inspired me to create this wolf to have a style to it."
+    
 intro: 
   - excerpt: ' '  
     
