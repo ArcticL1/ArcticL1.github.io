@@ -21,11 +21,11 @@ skills:
   - name: "Unity -"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev", "Lighting/Effects", "Particle-Systems"]
-    text: "Using Unity for several different skills working in both 2D and 3D design, such as programming with C#, Lighting and particle systems, UI elements and much more. Over the past year, I created many small projects while learning Unity and the skills behind it."
+    text: "Using Unity for several different skills working in both 2D and 3D design, including programming with C#, lighting and particle systems, UI elements, and much more. Over the past year, I created many small projects while learning Unity and the skills that come with it."
   - name: "Game Design -"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI", "Art"]
-    text: "I have experience in art and design across a wide range of elements, including digital, traditional, and perspective art styles. I have developed mechanics that the player will use within gameplay, such as generators that power’s up certain elements in a platformer game and have worked with features such as health bars for the player/enemy, as well as main menus."
+    text: "I have experience in art and design across a wide range of elements, including digital, traditional, and perspective art styles. I have developed mechanics that the player will use in gameplay, such as generators that power up certain elements in a platformer and have worked on features such as health bars for the player/enemy, as well as main menus."
 
 feature_row:
   - image_path: assets/images/hornet1.png
