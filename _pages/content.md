@@ -22,7 +22,7 @@ intro:
   - excerpt: 'You can also add text like this....'
 
 feature_row:
-  - image_path: /assets/images/Sprite-0003.png
+  - image_path: /assets/images/backrooms.png
     alt: "placeholder image 1"
     title: "Liminal Spaces -"
     excerpt: "The art above is one of the styles I like to draw, as I can draw interesting architecture in perspective drawing. Liminal art is usually styled towards horror that is aimed to cause unease in the person viewing, as they feel familiarity with it, creating in-between spaces or transitional areas, which typically would be full of people drawn as space, and can the uncanny valley affect if done correctly, as places feel like there’s something off about them."
