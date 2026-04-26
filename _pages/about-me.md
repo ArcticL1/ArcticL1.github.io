@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/images/games3.png
     alt: ""
     title: "Gaming –"
-    excerpt: "I am both Passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
+    excerpt: "I am passionate about experiencing and creating video games with interesting narratives, world-building and game audio/music. Games that inspire me and which I am currently playing are Hollow Knight: Silksong, Nine Sols and Oneshot."
   
   - image_path: /assets/images/20260417_133124.jpg
     alt: "placeholder image 1"
@@ -32,7 +32,7 @@ feature_row:
   - image_path: assets/images/Sprite-0005-export.png
     alt: "placeholder image 3"
     title: "Playtesting –"
-    excerpt: "I play early games/demos as I like playing games, and it is a way I can show support and help identify any issues/ bugs I find when playing. I have played many demos/early access of games, but some of my favourite ones have been Hytale and Half Sword."
+    excerpt: "I play early games/demos as I like playing games, and it is a way I can show support and help identify any issues/ bugs I find when playing. I have played many demos/early accesses of games, but some of my favourite ones have been Hytale and Half Sword."
 
 
 
@@ -40,7 +40,7 @@ skills:
   - name: "GitHub -"
     icon: "fab fa-fw fa-github"
     badges: ["Project Management", "Version/Branch Control", "Project Backup"]
-    text: "I made use of GitHub for my personal and collaborative projects. It allows me and multiple team members to work together on the same projects and track changes, fix bugs, and share resources.
+    text: "I make use of GitHub for my personal and collaborative projects. It allows me and multiple team members to work together on the same projects and track changes, fix bugs, and share resources.
     This allows me to revert to previous versions if needed and to create branches for simultaneous work without conflicts or overwriting work."
     
   - name: "World-building / level-design -"
@@ -50,12 +50,12 @@ skills:
 
   - name: "Digital-Media -"
     icon: "fas fa-fw fa-camera-retro"
-    badges: ["Producing Game Trailers", "OBS", "Audacity", "Photography / Filming Processes"]
-    text: "Having done a creative media class at A level has allowed me to gain an understanding of industry standards and the laws/regulations that conflict with media, I have learned the processes, and I have created a short film and multiple poster-style advertisements. "
+    badges: ["Producing Game Trailers", "OBS", "Audacity", "Photography/Filming Processes"]
+    text: "Having already done a creative media class at A level has allowed me to gain an understanding of industry standards and the laws/regulations that conflict with media, I have learned the processes, and I have created a short film and multiple poster-style advertisements. "
     
   - name: "Projects -"
     icon: "fas fa-fw fa-user"
-    badges: ["Communcation", "Teamwork", "Time-Management", "Office 365"]
+    badges: ["Communication", "Teamwork", "Time-Management", "Office 365"]
     text: "Working on many projects has allowed me to use tools of collaborative software such as GitHub, Microsoft Teams, and Miro. I have developed and applied various skills, including time management, effective communication with teammates, and proficiency with Office 365 tools."
 
     
