@@ -31,7 +31,7 @@ feature_row:
   - image_path: assets/images/hornet1.png
     alt: "placeholder image 1"
     title: "Art Styles -"
-    excerpt: "This is one of the many art styles I can draw in. This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail in my other styles on my content page."
+    excerpt: "This is one of the many art styles I can draw in. This artwork above features a popular game character called “Hornet” from the game “Hollow Knight – Silksong.” And you see this in more detail in my other styles on my content page."
     url: "https://arcticl1.github.io/content/"
     btn_label: "Read More"
     btn_class: "btn--primary"
