@@ -31,7 +31,7 @@ feature_row:
   - image_path: assets/images/hornet1.png
     alt: "placeholder image 1"
     title: "Art Styles -"
-    excerpt: "This is one of the many art styles I can draw in, This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail and my other styles on my content page."
+    excerpt: "This is one of the many art styles I can draw in. This artwork above features a popular game character from the game “Hollow Knight – Silksong.” And you see this in more detail in my other styles on my content page."
     url: "https://arcticl1.github.io/content/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -50,7 +50,7 @@ feature_row:
   - image_path: /assets/images/Sprite-0003.png
     alt: "placeholder image 4"
     title: "Projects -"
-    excerpt: "This is one of my projects I have created in my first year of university, this is a game Called Cat-acombs which is an exploratory dungeon clawer fighting rats as a cat, and you can see this and many for projects on my project page."
+    excerpt: "This is one of the projects that I created in my first year of university. This is a game called Cat-acombs, which is an exploratory dungeon crawler fighting rats as a cat, and you can see this and many more projects on my project page."
     url: "https://arcticl1.github.io/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
